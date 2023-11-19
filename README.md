@@ -1,28 +1,28 @@
-# Бутенко Руслан - фрилансер
+# Ruslan Butenko - Freelancer
 
-## Обо мне
-Я занимаюсь разработкой web-сайтов, движков, модулей, ботов и других проектов уже более 5 лет. Владею различными языками программирования, такими как PHP, JavaScript, Python, а также базами данных и фреймворками. Постоянно развиваю свои навыки и следую лучшим практикам программирования. Готов работать над сложными проектами и интересными задачами, как индивидуально, так и в команде с другими разработчиками. Если у вас есть интересный проект, пишите мне, вместе мы сможем превратить идею в реальность.
+## About Me
+I specialize in the development of web sites, engines, modules, bots, and various projects for over 5 years. I am proficient in programming languages such as PHP, JavaScript, Python, as well as databases and frameworks. I am constantly enhancing my skills and adhering to the best programming practices. I am ready to work on challenging projects and interesting tasks, both individually and as part of a team. If you have an exciting project, feel free to reach out; together, we can turn ideas into reality.
 
-## Навыки и технологии
-- PHP 5, 7, 8 (ООП включительно)
-- Sql, MySQL(i)\SQLite, NoSql, PostgreSql, MongoDB
-- JavaScript, Ajax, JQuery
+## Skills and Technologies
+- PHP 5, 7, 8 (including OOP)
+- SQL, MySQL(i)\SQLite, NoSQL, PostgreSQL, MongoDB
+- JavaScript, Ajax, jQuery
 - HTML, CSS\SAAS\SCSS\LESS, Twig\tpl
 - Python, Node.js, GULP / WEBPACK
 - Laravel, Symfony, Yii2, Zend Framework, CodeIgniter, Shop-Script
 
-# Дополнительные услуги
-- Настройка сайтов и подключение доменов
-- Интеграция с различными CRM системами
-- Установка и настройка сайтов
-- Исправление ошибок
-- Перенос сайтов на другие хостинги / VDS и домены
-- Внесение различных правок и улучшений
+# Additional Services
+- Website setup and domain connection
+- Integration with various CRM systems
+- Installation and configuration of websites
+- Bug fixing
+- Website migration to other hosting / VDS and domains
+- Implementation of various improvements and enhancements
 
-## Рабочее время и контакты
-Рабочее время: ПН-ПТ: с 10 до 18 (UTC +3). СБ-ВС: при интересном проекте готов работать даже в выходные, если это удобно обоим сторонам.
+## Working Hours and Contacts
+Working hours: Mon-Fri: 10 AM to 6 PM (UTC +3). Sat-Sun: willing to work on weekends for interesting projects, if convenient for both parties.
 
-Связаться со мной:
+Contact me at:
 - Email: [foxhand7@gmail.com](mailto:foxhand7@gmail.com)
-- Телефон: [+380-68-754-14-43](tel:+380687541443)
+- Phone: [+380-68-754-14-43](tel:+380687541443)
 - Telegram: [Foxhand](https://t.me/foxhand)
